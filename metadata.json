@@ -1,0 +1,8 @@
+{
+  "name": "Steward Life Command Center",
+  "description": "A high-performance life management system focused on alignment, momentum, and purposeful action through the concept of life phases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
